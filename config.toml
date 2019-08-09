@@ -14,7 +14,7 @@ theme = "hello-friend-ng"
   images = [""]
 
   # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "content/posts"
+  contentTypeName = "posts"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
@@ -45,7 +45,7 @@ theme = "hello-friend-ng"
     title = "Nathan Cox"
     subtitle = "Thoughts and Musings?"
     keywords = "homepage, blog, development, programming"
-    copyright = ""
+    copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"></a>'
     readotherposts = "read other posts"
 
     [languages.en.params.logo]
@@ -59,20 +59,12 @@ theme = "hello-friend-ng"
 	# You can create a language based menu
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
         identifier = "posts"
         name = "Posts"
-        url = "/posts"
+        url = "posts/"
 
 # And you can even create generic menu
 [menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "/about"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"

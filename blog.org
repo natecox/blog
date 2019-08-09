@@ -1,0 +1,66 @@
+#+STARTUP: content
+#+AUTHOR: Nathan Cox
+#+HUGO_BASE_DIR: .
+#+HUGO_AUTO_SET_LASTMOD: t
+
+* Pages
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true
+:EXPORT_HUGO_MENU: :menu main
+:EXPORT_HUGO_SECTION: pages
+:EXPORT_HUGO_WEIGHT: auto
+:END:
+
+* Posts
+:PROPERTIES:
+:EXPORT_HUGO_MENU: :menu posts
+:EXPORT_HUGO_SECTION: posts
+:END:
+
+** Finding My Motivation                                              :misc:
+:PROPERTIES:
+:EXPORT_DATE: 2019-08-09
+:EXPORT_FILE_NAME: finding-my-motivation
+:END:
+
+*** So I've decided to blog
+You know, that thing we all say that we should be doing for any number of perfectly valid reasons.
+
+Build your persona, they say. Cultivate an image. Invest into your future. Express yourself,
+motivate yourself.
+
+Whatever.
+
+Here's the thing: /it's hard/. I've been telling myself to do this for maybe five years. Yet here I
+am, having never done so.
+
+*** Imposter syndrome is a bitch
+Why should you, someone who is decidedly /not me/, care about what I have to say? I told myself that
+now is the time to do this a week ago and I've been wrestling with this question since.
+
+I'm fairly boring in my own eyes, I don't have monumental accomplishments to share. Most days the
+most impressive thing I do is simply get out of bed. So what the hell can I write about that people
+would find entertaining enough to bother with?
+
+So here's the deal: I'm not going to write to impress you. Pretend I'm saying that in such a way
+that it's not obvious I'm aware that I probably couldn't if I wanted to.
+
+*** OK, so what am I going to write about?
+Whatever interests me in the moment, probably. I like all kinds of stuff, so it /shouldn't/ be
+terribly difficult to come up with topics. 
+
+I'm a software developer with a passion for learning new things, I play the violin (poorly), I'm a
+black belt martial artist, I have a wife and three kids. But mostly, I have /time/.
+
+*** Story time with Nate
+I've spent the last four years working as a remote web developer for a sports based company, which
+has overall been pretty cool. Last week that company announced it was laying off pretty much
+everybody. We were surprised and displeased.
+
+Being home alone most of the time is rough. Being home alone most of the time while dealing with
+huge amounts of stress and fighting off depression is worse. Frankly, I need a distraction, and it's
+about time I did something productive again. 
+
+You know, build my persona, cultivate an image, invest into my future. Express and motivate myself.
+
+So I've decided to blog.
